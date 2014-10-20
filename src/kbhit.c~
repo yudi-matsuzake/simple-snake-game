@@ -1,3 +1,6 @@
+/*
+Autor: Gustavo Yudi Bientinezi Matsuzake
+*/
 #include "kbhit.h"
 
 

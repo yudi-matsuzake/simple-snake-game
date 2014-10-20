@@ -1,5 +1,7 @@
 /*
-Autor: Gustavo Yudi Bientinezi Matsuzake
+/*
+Profº Rodrigo Minetto
+UTFPR, Algoritmos 2
 */
 #ifndef _KBHIT_H_
 #define _KBHIT_H_

@@ -1,5 +1,6 @@
 /*
-Autor: Gustavo Yudi Bientinezi Matsuzake
+Profº Rodrigo Minetto
+UTFPR, Algoritmos 2
 */
 #include "kbhit.h"
 
